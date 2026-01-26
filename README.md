@@ -1,4 +1,4 @@
-<img width="729" height="568" alt="Lotus-AI" src="https://github.com/user-attachments/assets/123d128f-4216-4626-ada5-5ac8c4c5b1ab" />
+<img width="300" height="300" alt="Lotus-AI" src="https://github.com/user-attachments/assets/123d128f-4216-4626-ada5-5ac8c4c5b1ab" />
 
 
 🚀 LotusAI Internship Portfolio (Nov 2025 - Jan 2026)
