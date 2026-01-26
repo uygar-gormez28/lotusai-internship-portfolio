@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="<img width="1137" height="628" alt="image" src="https://github.com/user-attachments/assets/a938e342-7b9b-4a9e-9865-0d8fcf8c55f6" />
-" alt="LotusAI Logo" width="350">
-</p>
+
+<img width="1137" height="628" alt="Lotus" src="https://github.com/user-attachments/assets/2fbcf17a-c9e4-4d00-882e-6ad0eaab838d" />
 
 # 🚀 LotusAI Internship Portfolio (Nov 2025 - Jan 2026)
 
@@ -26,6 +24,7 @@ Bu depo, **LotusAI** bünyesinde gerçekleştirdiğim 8 haftalık gönüllü sta
 ### 2️⃣ Task 3: 100 SQL Query Practice
 * "100 SQL Analitik Sorgu Projesi" kapsamında; JOIN, Window Functions, CTE ve Subquery yapıları kullanılarak geliştirilen karmaşık senaryolar.
 * Veri tabanı analizi sonuçlarının Python (Pandas) ile karşılaştırmalı doğrulanması.
+<img width="1137" height="628" alt="Lotus" src="https://github.com/user-attachments/assets/51971122-81f1-46c3-9592-3abbe148deec" />
 
 ### 3️⃣ Task 4: Data Visualization (Python vs. KNIME)
 * Matplotlib, Seaborn ve Plotly kütüphaneleri kullanılarak, ham veriden stratejik içgörüler çıkaran interaktif görselleştirme raporları.
