@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="<img width="1137" height="628" alt="image" src="https://github.com/user-attachments/assets/a938e342-7b9b-4a9e-9865-0d8fcf8c55f6" />
+" alt="LotusAI Logo" width="350">
+</p>
+
 # 🚀 LotusAI Internship Portfolio (Nov 2025 - Jan 2026)
 
-Bu depo, **LotusAI** bünyesinde gerçekleştirdiğim 8 haftalık gönüllü staj sürecindeki projelerimi, veri analizi çalışmalarımı ve makine öğrenmesi modellerimi içermektedir.
+Bu depo, **LotusAI** bünyesinde gerçekleştirdiğim 8 haftalık gönüllü staj sürecindeki projelerimi, veri analizi çalışmalarımı ve makine öğrenmesi modellerimi içermektedir. Staj süresince veri mühendisliği, iş zekası (BI) ve yapay zeka modellerinin uçtan uca geliştirilmesi süreçlerinde aktif rol aldım.
 
 ---
 
@@ -15,19 +20,19 @@ Bu depo, **LotusAI** bünyesinde gerçekleştirdiğim 8 haftalık gönüllü sta
 ## 📁 Proje Yapısı (Repository Structure)
 
 ### 1️⃣ Task 1 & 2: ML Fundamentals & KNIME Basics
-* KNIME ve Makine Öğrenmesi temelleri üzerine teorik ve pratik çalışmalar.
-* Süreç sonunda hazırlanan sunum dosyası.
+* KNIME Analytics Platform üzerinde veri işleme, dönüştürme ve modelleme adımlarını içeren iş akışlarının tasarımı.
+* Temel Makine Öğrenmesi kavramları ve algoritma analizleri üzerine hazırlanan teknik sunumlar.
 
 ### 2️⃣ Task 3: 100 SQL Query Practice
-* Veri tabanı yönetimi ve veri manipülasyonu için hazırlanan 100 farklı SQL sorgusu senaryosu.
-* Pandas ile SQL entegrasyonu üzerine pratikler.
+* "100 SQL Analitik Sorgu Projesi" kapsamında; JOIN, Window Functions, CTE ve Subquery yapıları kullanılarak geliştirilen karmaşık senaryolar.
+* Veri tabanı analizi sonuçlarının Python (Pandas) ile karşılaştırmalı doğrulanması.
 
 ### 3️⃣ Task 4: Data Visualization (Python vs. KNIME)
-* Aynı veri seti üzerinde hem Python hem de KNIME kullanılarak oluşturulan karşılaştırmalı görselleştirme raporları.
+* Matplotlib, Seaborn ve Plotly kütüphaneleri kullanılarak, ham veriden stratejik içgörüler çıkaran interaktif görselleştirme raporları.
 
 ### 4️⃣ Task 5: 5 Core Machine Learning Projects
-Beş temel makine öğrenmesi problemi üzerine geliştirilen modeller:
-* **Sınıflandırma (Classification)**
+CRISP-DM metodolojisi takip edilerek, gerçek dünya senaryoları üzerine geliştirilen 5 temel model:
+* **Sınıflandırma (Classification):** Karar Ağaçları, Random Forest ve SVM modellerinin performans optimizasyonu.
 * **Regresyon (Regression)**
 * **Kümeleme (Clustering)**
 * **Birliktelik Kuralı Çıkarımı (Association Rule Mining)**
@@ -35,12 +40,13 @@ Beş temel makine öğrenmesi problemi üzerine geliştirilen modeller:
 
 ---
 
-## 📊 Öne Çıkan Çalışmalar (Highlights)
-* **KNIME vs Python:** Veri bilimi süreçlerinde iki farklı yaklaşımın (kod tabanlı vs. low-code) avantajları üzerine derinlemesine analizler yapıldı.
-* **End-to-End ML:** Veri temizlemeden başlayarak model değerlendirmeye kadar tüm ML pipeline süreci tamamlandı.
+## 📊 Öne Çıkan Başarılar (Key Achievements)
+* **Hibrit Çözüm Üretme:** Veri bilimi problemlerine hem kod tabanlı (Python) hem de görsel programlama (KNIME) odaklı profesyonel çözümler geliştirildi.
+* **Sunum ve Raporlama:** Teknik sonuçların, teknik olmayan paydaşlara da hitap edecek şekilde PDF ve sunum formatlarında profesyonel dokümantasyonu sağlandı.
 
 ---
 
-## 🔗 İletişim & Portfolyo
+## 🔗 İletişim & Sosyal Medya
+* **LinkedIn:** [Uygar Görmez](https://www.linkedin.com/in/uygar-g%C3%B6rmez-48b982306/)
 * **Kişisel Web Sitesi:** [uygar-dev.com](https://uygar-dev.com)
-* **LinkedIn:** [Senin LinkedIn Linkin Buraya]
+  
