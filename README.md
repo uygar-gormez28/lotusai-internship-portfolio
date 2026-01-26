@@ -1,6 +1,7 @@
+<img width="729" height="568" alt="Lotus-AI" src="https://github.com/user-attachments/assets/123d128f-4216-4626-ada5-5ac8c4c5b1ab" />
 
-<img width="1137" height="628" alt="Lotus" src="https://github.com/user-attachments/assets/51971122-81f1-46c3-9592-3abbe148deec" />
-# 🚀 LotusAI Internship Portfolio (Nov 2025 - Jan 2026)
+
+🚀 LotusAI Internship Portfolio (Nov 2025 - Jan 2026)
 
 Bu depo, **LotusAI** bünyesinde gerçekleştirdiğim 8 haftalık gönüllü staj sürecindeki projelerimi, veri analizi çalışmalarımı ve makine öğrenmesi modellerimi içermektedir. Staj süresince veri mühendisliği, iş zekası (BI) ve yapay zeka modellerinin uçtan uca geliştirilmesi süreçlerinde aktif rol aldım.
 
